@@ -15,9 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Selected Publications
+## Acacdemic Publications
 
 **[Out of Bounds: Do SPF Respondents Have Anchored Inflation Expectations?](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12968)** (forthcoming, with [Carola Binder](https://carolabinder.sites.haverford.edu/) and [Randal J. Verbrugge](https://www.clevelandfed.org/research/economists/verbrugge-randal-j)) *Journal of Money Credit & Banking*
+
+## Policy Papers
 
 **[Forward Guidance during the Pandemic: Has It Changed the Public’s Expectations?](https://www.clevelandfed.org/publications/economic-commentary/2020/ec-202027-forward-guidance-during-the-pandemic)** (2020, with [Chengcheng Jia](https://sites.google.com/site/chengchengjia)) *Federal Reserve Bank of Cleveland Economic Commentary*
 
