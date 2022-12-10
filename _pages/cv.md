@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+# Education
+## Education
+### Education
+
 Education
 ======
 * M.S. in Computational Analysis and Public Policy, University of Chicago, 2023 (Expected)
