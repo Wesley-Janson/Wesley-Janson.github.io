@@ -14,7 +14,7 @@ Education
 * M.S. in Computational Analysis and Public Policy, University of Chicago, 2023 (Expected)
 * B.A. in Economics, University of Minnesota-Twin Cities, 2018
 
-Work experience
+Professional Experience
 ======
 * May 2022-Present: Research Assistant, Securities Quote Exchange
   * Provide research support for SQX - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
@@ -31,7 +31,15 @@ Work experience
   * Enhanced preparation to the monetary policy-making process by supporting bank economists with briefings regarding monetary policy and the bi-quarterly Federal Open Market Committee meetings
   * Automated the *Simple Monetary Policy Rules* bank product, eliminating manual data entry and potential user error, ensuring the quarterly updates to the underlying information provided to the public is accurate
   * Coauthored 3 short, [policy-relevant articles](https://www.clevelandfed.org/people/profiles/j/janson-wesley) aimed for public viewing, and 2 academic working papers, one currently under review at an academic journal, one forthcoming for publication
+
+* June 2018-August 2018: Model Development Intern, Federal Reserve Bank of Philadelphia
+  * Developed a new forecasting model for use by FRBP officials on cash deposits and orders from third district member banks by utilizing time series econometric techniques in the \texttt{SAS} programming language
   
+Teaching Experience
+======
+* September 2021-November 2021: Teaching Assistant, Math & Coding Camp/Coding Lab
+  * TA coding in R to first year Harris students
+
 Technical Skills
 ======
 * Skill 1
