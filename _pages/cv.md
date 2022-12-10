@@ -9,16 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
 ## Education
-### Education
-
-Education
 ======
 * M.S. in Computational Analysis and Public Policy, University of Chicago, 2023 (Expected)
 * B.A. in Economics, University of Minnesota-Twin Cities, 2018
 
-Professional Experience
+## Professional Experience
 ======
 * May 2022-Present: Research Assistant, Securities Quote Exchange
   * Provide research support for SQX - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
