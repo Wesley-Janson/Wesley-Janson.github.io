@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wesley Janson"
   avatar           : "profile.png"
-  bio              : "University of Chicago graduate student interested in economic and social policy, with a specific focus on using computational statistics to make better policy"
+  bio              : "I am a graduate student at the University of Chicago interested in economic and social policy, with a specific focus on using computational statistics to make better policy"
   location         : "Chicago, IL"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "https://github.com/Wesley-Janson"
-  linkedin         : "/wesley-janson/"
+  github           : "Wesley-Janson"
+  linkedin         : "wesley-janson"
   twitter          : "@wrjanson"
 
 
@@ -229,7 +229,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
