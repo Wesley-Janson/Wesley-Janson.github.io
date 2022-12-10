@@ -84,25 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "University of Chicago graduate student interested in economic and social policy, with a specific focus on using computational statistics to make better policy"
   location         : "Chicago, IL"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "https://github.com/Wesley-Janson"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/wesley-janson/"
+  linkedin         : "/wesley-janson/"
   twitter          : "@wrjanson"
 
 
