@@ -27,7 +27,7 @@ author_profile: true
 
 ## In Progress
 
-**Late Payment Fees and Nonpayment in Rental Markets, and Implications for Inflation Measurement: Theoretical Considerations and Evidence**
+**Late Payment Fees and Nonpayment in Rental Markets, and Implications for Inflation Measurement: Theoretical Considerations and Evidence** <br>
 **Abstract:** Statistical agencies track rental expenditures for use in the national accounts and in consumer price indexes (CPIs). As such, statistical agencies should include late payment fees and nonpayment in rent. In the US context, late payment fees are excluded from the CPI. Ostensibly, nonpayment of rent is included in the US CPI; but its treatment is deficient, and we demonstrate that small variations in nonpayment could lead to large swings in shelter inflation, and might have played a role in the 2009 measured shelter inflation collapse. They didn’t: while the national nonpayment incidence is 2-3 percent, in the 1 million plus rent observations in BLS rent microdata from 2000-2016, no nonpayment is recorded. A back-of-the-envelope calculation suggests that, assuming nonpayment undermeasurement continued after 2016, CPI shelter inflation may have been overestimated by about 1 percentage point per month (annualized) in 2020. Late fees and nonpayment are difficult to measure in real time. We offer implementation suggestions that are consistent with CPI procedures.
 
 
