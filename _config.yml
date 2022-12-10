@@ -84,8 +84,7 @@ author:
   avatar           : "headshot.jpeg"
   bio              : "I am a graduate student at the University of Chicago interested in economic policy and data science, with a specific focus on computational statistics."
   location         : "Chicago, IL"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "wrjanson@uchicago.edu"
   github           : "Wesley-Janson"
   linkedin         : "wesley-janson"
   twitter          : "@wrjanson"
