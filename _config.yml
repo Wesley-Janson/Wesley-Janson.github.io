@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wesley Janson"
   avatar           : "headshot.jpeg"
-  bio              : "I am a graduate student at the University of Chicago interested in economic and social policy, with a specific focus on using computational statistics to make better policy"
+  bio              : "I am a graduate student at the University of Chicago interested in economic policy and data science, with a specific focus on computational statistics."
   location         : "Chicago, IL"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
