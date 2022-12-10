@@ -48,10 +48,3 @@ Technical Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Papers and Publications
-======
-  <ul>{% for post in site.papers_and_publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
