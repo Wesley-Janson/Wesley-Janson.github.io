@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
 ======
 My name is Wesley Janson and I am currently a second-year student in the M.S. in Computational Analysis and Public Policy program at the University of Chicago.
 
