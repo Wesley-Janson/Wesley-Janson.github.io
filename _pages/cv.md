@@ -11,23 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computational Analysis and Public Policy, University of Chicago, 2023 (Expected)
+* B.A. in Economics, University of Minnesota-Twin Cities, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* May 2022-Present: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* May 2022-Present: Technical Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Technical Skills
 ======
 * Skill 1
 * Skill 2
@@ -36,24 +35,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Papers and Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.papers_and_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
