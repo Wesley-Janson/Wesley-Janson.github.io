@@ -33,7 +33,7 @@ Professional Experience
   * Coauthored 3 short, [policy-relevant articles](https://www.clevelandfed.org/people/profiles/j/janson-wesley) aimed for public viewing, and 2 academic working papers, one currently under review at an academic journal, one forthcoming for publication
 
 * June 2018-August 2018: Model Development Intern, Federal Reserve Bank of Philadelphia
-  * Developed a new forecasting model for use by FRBP officials on cash deposits and orders from third district member banks by utilizing time series econometric techniques in the \texttt{SAS} programming language
+  * Developed a new forecasting model for use by FRBP officials on cash deposits and orders from third district member banks by utilizing time series econometric techniques in the <tt> SAS </tt> programming language
   
 Teaching Experience
 ======
