@@ -17,7 +17,9 @@ author_profile: true
 
 ## Selected Publications
 
-### Out of Bounds: Do SPF Respondents Have Anchored Inflation Expectations? (forthcoming)
+### Out of Bounds: Do SPF Respondents Have Anchored Inflation Expectations? <br>
+### (forthcoming, Journal of Money Credit and Banking)
+**Abstract:** 
 
 
 ## In Progress
