@@ -25,6 +25,12 @@ Work experience
   * Overhaul the Harris School's [Center for Municipal Finance website](https://munifinance.uchicago.edu/), populating it with information on events, media coverage, relevant research and data
   * Install a brand-new "CMF Data Dashboard" which provides users with a range of data visualizations concerning municipal bond trading, pricing, and liquidity measures
   * Using a repeat-sales methodology, create a municipal bond index gauging individual city/county/school district financial health and market sentiment, featured in [Bloomberg News](https://www.bnnbloomberg.ca/chicago-s-improved-finances-reflected-in-bond-investor-sentiment-1.1829622#:~:text=(Bloomberg)\%20\%2D\%2D\%20Investors\%20are\%20more,those\%20of\%20other\%20big\%20cities.) and [Crain's Chicago Business](https://www.chicagobusiness.com/politics/chicagos-improved-finances-reflected-bond-investor-sentiment)
+
+* September 2018-August 2021: Research Assistant, Federal Reserve Bank of Cleveland
+  * Advanced the research projects of bank economists' for public viewing and submission to academic journals by gathering relevant data, performing econometric analysis, and writing up findings
+  * Enhanced preparation to the monetary policy-making process by supporting bank economists with briefings regarding monetary policy and the bi-quarterly Federal Open Market Committee meetings
+  * Automated the *Simple Monetary Policy Rules* bank product, eliminating manual data entry and potential user error, ensuring the quarterly updates to the underlying information provided to the public is accurate
+  * Coauthored 3 short, [policy-relevant articles](https://www.clevelandfed.org/people/profiles/j/janson-wesley) aimed for public viewing, and 2 academic working papers, one currently under review at an academic journal, one forthcoming for publication
   
 Technical Skills
 ======
