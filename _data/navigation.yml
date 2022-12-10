@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Papers and Publications"
-    url: /publications/
+    url: /papers_and_publications/
 
   - title: "Talks"
     url: /talks/    
@@ -10,7 +10,7 @@ main:
     url: /teaching/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
   - title: "Blog Posts"
     url: /year-archive/
