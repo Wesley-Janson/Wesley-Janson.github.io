@@ -25,6 +25,8 @@ author_profile: true
 
 **[The CPI–PCEPI Inflation Differential: Causes and Prospects](https://www.clevelandfed.org/publications/economic-commentary/2020/ec-202006-cpi-pcepi-inflation-differential)** (2020, with [Carola Binder](https://carolabinder.sites.haverford.edu/) and [Randal J. Verbrugge](https://www.clevelandfed.org/research/economists/verbrugge-randal-j)) *Federal Reserve Bank of Cleveland Economic Commentary*
 
+**[Risk-taking by Public Pension Funds.](https://cla.umn.edu/heller-hurwicz/news/policy-brief-risk-taking-public-pension-funds)** (2018, with [Kurt Winkelmann](https://navegastrategies.com/about/), [Jordan Pandolfo](https://sites.google.com/a/umn.edu/jordan-pandolfo/), and [Matthew Murphy](https://economics.wustl.edu/people/matthew-murphy)) *Heller-Hurwicz Economics Institute Policy Brief*
+
 ## Work In Progress
 
 **[Late Payment Fees and Nonpayment in Rental Markets, and Implications for Inflation Measurement: Theoretical Considerations and Evidence](https://www.clevelandfed.org/publications/working-paper/2021/wp-2022r-late-payment-fees-nonpayment-in-rental-markets)** (Under Review, with [Randal J. Verbrugge](https://www.clevelandfed.org/research/economists/verbrugge-randal-j)) <br>
