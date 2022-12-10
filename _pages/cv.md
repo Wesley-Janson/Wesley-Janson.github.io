@@ -14,7 +14,6 @@ redirect_from:
 * B.A. in Economics, University of Minnesota-Twin Cities, 2018
 
 ## Professional Experience
-======
 * May 2022-Present: Research Assistant, Securities Quote Exchange
   * Provide research support for SQX - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
   * Develop a data-driven approach to grouping peer bonds in SQX's municipal bond pricing model - used by traders, analysts, and regulators - creating time-consistent groupings, and shortening run-time by 90%
@@ -34,13 +33,11 @@ redirect_from:
 * June 2018-August 2018: Model Development Intern, Federal Reserve Bank of Philadelphia
   * Developed a new forecasting model for use by FRBP officials on cash deposits and orders from third district member banks by utilizing time series econometric techniques in the <tt>SAS</tt> programming language
   
-Teaching Experience
-======
+## Teaching Experience
 * September 2021-November 2021: Teaching Assistant, Math & Coding Camp/Coding Lab
   * TA coding in R to first year Harris students
 
-Technical Skills
-======
+## Technical Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
