@@ -35,12 +35,9 @@ redirect_from:
   
 ## Teaching Experience
 * September 2021-November 2021: Teaching Assistant, Math & Coding Camp/Coding Lab
-  * TA coding in R to first year Harris students
+  * Serve as teaching assistant for the course designed to prepare incoming Harris School of Public Policy students for the coding required in the core curriculum.
+  * Lead lab sessions of 12 students, providing assistance to students completing coding tasks in R.
 
 ## Technical Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Programming: R (*tidyverse, nnet, ggplot2*), Python (*Numpy, Pandas, Sci-kit Learn*), STATA, SQL
+Software: LaTeX, Git/Github, Microsoft Office Applications, Adobe Acrobat
