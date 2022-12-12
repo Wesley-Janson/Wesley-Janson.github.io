@@ -13,6 +13,10 @@ redirect_from:
 * M.S. in Computational Analysis and Public Policy, University of Chicago, 2023 (Expected)
 * B.A. in Economics, University of Minnesota-Twin Cities, 2018
 
+## Technical Skills
+Programming: R (*tidyverse, nnet, ggplot2*), Python (*numpy, pandas, scikit-learn*), STATA, SQL <br>
+Software: LaTeX, Git/Github, Microsoft Office Applications, Adobe Acrobat
+
 ## Professional Experience
 **Securities Quote Exchange** <br>
 Research Assistant <br>
@@ -47,7 +51,3 @@ Teaching Assistant <br>
 September 2021-November 2021
 * Serve as teaching assistant for the course designed to prepare incoming Harris students for the coding required in the core curriculum.
 * Lead lab sessions of 12 students, providing assistance to students completing coding tasks in R.
-
-## Technical Skills
-Programming: R (*tidyverse, nnet, ggplot2*), Python (*numpy, pandas, scikit-learn*), STATA, SQL <br>
-Software: LaTeX, Git/Github, Microsoft Office Applications, Adobe Acrobat
