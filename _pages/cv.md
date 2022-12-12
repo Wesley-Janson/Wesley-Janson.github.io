@@ -39,7 +39,7 @@ September 2018-August 2021
 **Federal Reserve Bank of Philadelphia** <br>
 Model Development Intern <br>
 June 2018-August 2018
-* Developed a new forecasting model for use by FRBP officials on cash deposits and orders from third district member banks by utilizing time series econometric techniques in the <tt>SAS</tt> programming language
+* Developed a new forecasting model for use by FRBP officials on cash deposits and orders from third district member banks by utilizing time series econometric techniques in the SAS programming language
   
 ## Teaching Experience
 **Harris School of Public Policy Math & Coding Camp/Coding Lab** <br>
