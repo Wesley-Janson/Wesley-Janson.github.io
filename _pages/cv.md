@@ -39,5 +39,5 @@ redirect_from:
   * Lead lab sessions of 12 students, providing assistance to students completing coding tasks in R.
 
 ## Technical Skills
-Programming: R (*tidyverse, nnet, ggplot2*), Python (*numpy, pandas, sci-kit learn*), STATA, SQL <br>
+Programming: R (*tidyverse, nnet, ggplot2*), Python (*numpy, pandas, scikit-learn*), STATA, SQL <br>
 Software: LaTeX, Git/Github, Microsoft Office Applications, Adobe Acrobat
