@@ -36,7 +36,7 @@ September 2018-August 2021
 * Automated the *Simple Monetary Policy Rules* bank product, eliminating manual data entry and potential user error, ensuring the quarterly updates to the underlying information provided to the public is accurate
 * Coauthored 3 short, [policy-relevant articles](https://www.clevelandfed.org/people/profiles/j/janson-wesley) aimed for public viewing, and 2 academic working papers, one currently under review at an academic journal, one forthcoming for publication
 
-**Federal Reserve Bank of Philadelphia**
+**Federal Reserve Bank of Philadelphia** <br>
 Model Development Intern <br>
 June 2018-August 2018
 * Developed a new forecasting model for use by FRBP officials on cash deposits and orders from third district member banks by utilizing time series econometric techniques in the <tt>SAS</tt> programming language
