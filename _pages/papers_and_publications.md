@@ -17,7 +17,7 @@ author_profile: true
 
 ## Journal Publications
 
-**[Out of Bounds: Do SPF Respondents Have Anchored Inflation Expectations?](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12968)** (forthcoming, with [Carola Binder](https://carolabinder.sites.haverford.edu/) and [Randal J. Verbrugge](https://www.clevelandfed.org/research/economists/verbrugge-randal-j)) *Journal of Money Credit & Banking*
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12968" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><strong><span style="text-decoration: underline;">Out of Bounds: Do SPF Respondents Have Anchored Inflation Expectations?</span></strong></a>(forthcoming, with [Carola Binder](https://carolabinder.sites.haverford.edu/) and [Randal J. Verbrugge](https://www.clevelandfed.org/research/economists/verbrugge-randal-j)) *Journal of Money Credit & Banking*
 
 ## Policy Papers
 
