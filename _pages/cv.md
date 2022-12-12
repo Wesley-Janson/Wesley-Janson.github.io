@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download an abbreviated version of my resume [here]().
 
 ## Education
 * M.S. in Computational Analysis and Public Policy, University of Chicago, 2023 (Expected)
