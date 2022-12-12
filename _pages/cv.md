@@ -16,7 +16,7 @@ redirect_from:
 ## Professional Experience
 **Securities Quote Exchange** <br>
 Research Assistant <br>
-May 2022-Present
+May 2022-Present <br>
 * Provide research support for SQX - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
 * Develop a data-driven approach to grouping peer bonds in SQX's municipal bond pricing model - used by traders, analysts, and regulators - creating time-consistent groupings, and shortening run-time by 90%
 * Implement an internal rating system using 2-stage logistic regression, allowing for the assignment of ratings to approximately 500,000 municipal bonds otherwise unrated by S&P/Moody's
