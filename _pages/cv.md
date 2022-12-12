@@ -29,9 +29,9 @@ May 2022-Present <br>
 **University of Chicago-Harris School of Public Policy** <br>
 Technical Assistant <br>
 May 2022-Present
-* Overhaul the Harris School's [Center for Municipal Finance website](https://munifinance.uchicago.edu/), populating it with information on events, media coverage, relevant research and data
+* Overhaul the Harris School's <a href="https://munifinance.uchicago.edu/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Center for Municipal Finance website</span></a>, populating it with information on events, media coverage, relevant research and data
 * Install a brand-new "CMF Data Dashboard" which provides users with a range of data visualizations concerning municipal bond trading, pricing, and liquidity measures
-* Using a repeat-sales methodology, create a municipal bond index gauging individual city/county/school district financial health and market sentiment, featured in [Bloomberg News](https://www.bnnbloomberg.ca/chicago-s-improved-finances-reflected-in-bond-investor-sentiment-1.1829622#:~:text=(Bloomberg)\%20\%2D\%2D\%20Investors\%20are\%20more,those\%20of\%20other\%20big\%20cities.) and [Crain's Chicago Business](https://www.chicagobusiness.com/politics/chicagos-improved-finances-reflected-bond-investor-sentiment)
+* Using a repeat-sales methodology, create a municipal bond index gauging individual city/county/school district financial health and market sentiment, featured in <a href="https://www.bnnbloomberg.ca/chicago-s-improved-finances-reflected-in-bond-investor-sentiment-1.1829622#:~:text=(Bloomberg)\%20\%2D\%2D\%20Investors\%20are\%20more,those\%20of\%20other\%20big\%20cities." data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Bloomberg News</span></a> and <a href="https://www.chicagobusiness.com/politics/chicagos-improved-finances-reflected-bond-investor-sentiment" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Crain's Chicago Business</span></a>
 
 **Federal Reserve Bank of Cleveland** <br>
 Research Analyst <br>
@@ -39,7 +39,7 @@ September 2018-August 2021
 * Advanced the research projects of bank economists' for public viewing and submission to academic journals by gathering relevant data, performing econometric analysis, and writing up findings
 * Enhanced preparation to the monetary policy-making process by supporting bank economists with briefings regarding monetary policy and the bi-quarterly Federal Open Market Committee meetings
 * Automated the *Simple Monetary Policy Rules* bank product, eliminating manual data entry and potential user error, ensuring the quarterly updates to the underlying information provided to the public is accurate
-* Coauthored 3 short, [policy-relevant articles](https://www.clevelandfed.org/people/profiles/j/janson-wesley) aimed for public viewing, and 2 academic working papers, one currently under review at an academic journal, one forthcoming for publication
+* Coauthored 3 short, <a href="https://www.clevelandfed.org/people/profiles/j/janson-wesley" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">policy-relevant articles</span></a> aimed for public viewing, and 2 academic working papers, one currently under review at an academic journal, one forthcoming for publication
 
 **Federal Reserve Bank of Philadelphia** <br>
 Model Development Intern <br>
