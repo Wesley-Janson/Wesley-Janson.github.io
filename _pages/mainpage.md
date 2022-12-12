@@ -14,4 +14,3 @@ Currently, at the University of Chicago I have taken coursework in machine learn
 
 Previously, I was a Research Analyst at the Federal Reserve Bank of Cleveland, where I supported two bank economists with their research, and assisted in the  preparation of materials ahead of the Federal Open Market Committee (FOMC) meetings. Most of my research was on the topics of macroeconomics, monetary policy, and inflation expectations/dynamics. With [Randy Verbrugge](https://www.clevelandfed.org/research/economists/verbrugge-randal-j) and [Carola Binder](https://carolabinder.sites.haverford.edu/), I coauthored [Out of Bounds: Do SPF Respondents Have Anchored Inflation Expectations?](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12968), which is forthcoming in the Journal of Money, Credit & Banking. 
 
-Please stay tuned as I update this website!
