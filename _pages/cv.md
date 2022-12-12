@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 You can download a PDF of an abbreviated version of my resume <a href="https://github.com/Wesley-Janson/Wesley-Janson.github.io/raw/master/_pages/wesley_janson_resume.pdf" download="">here</a>
 
-[here](wesley_janson_resume.pdf).
-
 ## Education
 * M.S. in Computational Analysis and Public Policy, University of Chicago, 2023 (*Expected*)
 * B.A. in Economics, University of Minnesota-Twin Cities, 2018
