@@ -14,10 +14,12 @@ redirect_from:
 * B.A. in Economics, University of Minnesota-Twin Cities, 2018
 
 ## Professional Experience
-* May 2022-Present: Research Assistant, Securities Quote Exchange
-  * Provide research support for SQX - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
-  * Develop a data-driven approach to grouping peer bonds in SQX's municipal bond pricing model - used by traders, analysts, and regulators - creating time-consistent groupings, and shortening run-time by 90%
-  * Implement an internal rating system using 2-stage logistic regression, allowing for the assignment of ratings to approximately 500,000 municipal bonds otherwise unrated by S&P/Moody's
+**Securities Quote Exchange**
+Research Assistant 
+May 2022-Present
+* Provide research support for SQX - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
+* Develop a data-driven approach to grouping peer bonds in SQX's municipal bond pricing model - used by traders, analysts, and regulators - creating time-consistent groupings, and shortening run-time by 90%
+* Implement an internal rating system using 2-stage logistic regression, allowing for the assignment of ratings to approximately 500,000 municipal bonds otherwise unrated by S&P/Moody's
 
 * May 2022-Present: Technical Assistant, University of Chicago-Harris School of Public Policy
   * Overhaul the Harris School's [Center for Municipal Finance website](https://munifinance.uchicago.edu/), populating it with information on events, media coverage, relevant research and data
