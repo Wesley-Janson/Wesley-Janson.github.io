@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download a PDF of an abbreviated version of my resume <a href="wesley_janson_resume.pdf" download>here</a>
+You can download a PDF of an abbreviated version of my resume <a href="../wesley_janson_resume.pdf" download>here</a>
 
 
 [here](wesley_janson_resume.pdf).
