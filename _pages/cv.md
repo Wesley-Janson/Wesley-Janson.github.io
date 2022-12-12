@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download a PDF of an abbreviated version of my resume [here](wesley_janson_resume.pdf).
+You can download a PDF of an abbreviated version of my resume <a href="wesley_janson_resume.pdf" download>here</a>
+
+
+[here](wesley_janson_resume.pdf).
 
 ## Education
 * M.S. in Computational Analysis and Public Policy, University of Chicago, 2023 (Expected)
