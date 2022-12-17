@@ -37,7 +37,7 @@ May 2022-Present
 Research Assistant, Professor Ingvil Gaarder <br>
 September 2021-May 2022
 * Facilitated the advancement of the research project studying the distributional welfare effects of changes in state sales tax rates 
-* Spearheaded collection of supplemental state sales tax data, expanding the analysis dataset by 50\% to allow for new, more robust econometric testing in preparation for the paper's submission to an academic journal 
+* Spearheaded collection of supplemental state sales tax data, expanding the analysis dataset by 50% to allow for new, more robust econometric testing in preparation for the paper's submission to an academic journal 
 
 **Federal Reserve Bank of Cleveland** <br>
 Research Analyst <br>
