@@ -33,6 +33,12 @@ May 2022-Present
 * Install a brand-new "CMF Data Dashboard" which provides users with a range of data visualizations concerning municipal bond trading, pricing, and liquidity measures
 * Using a repeat-sales methodology, create a municipal bond index gauging individual city/county/school district financial health and market sentiment, featured in <a href="https://www.bnnbloomberg.ca/chicago-s-improved-finances-reflected-in-bond-investor-sentiment-1.1829622#:~:text=(Bloomberg)\%20\%2D\%2D\%20Investors\%20are\%20more,those\%20of\%20other\%20big\%20cities." data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Bloomberg News</span></a> and <a href="https://www.chicagobusiness.com/politics/chicagos-improved-finances-reflected-bond-investor-sentiment" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Crain's Chicago Business</span></a>
 
+**University of Chicago-Harris School of Public Policy** <br>
+Research Assistant, Proefessor Ingvil Gaarder <br>
+September 2021-May 2022
+* Facilitated the advancement of the research project studying the distributional welfare effects of changes in state sales tax rates 
+* Spearheaded collection of supplemental state sales tax data, expanding the analysis dataset by 50\% to allow for new, more robust econometric testing in preparation for the paper's submission to an academic journal 
+
 **Federal Reserve Bank of Cleveland** <br>
 Research Analyst <br>
 September 2018-August 2021
