@@ -24,7 +24,7 @@ Research Assistant <br>
 May 2022-Present <br>
 * Provide research support for SQX - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
 * Develop a data-driven approach to grouping peer bonds in SQX's municipal bond pricing model - used by traders, analysts, and regulators - creating time-consistent groupings, and shortening run-time by 90%
-* Implement an internal credit ratings system using an gradient-boosted random forest machine learning model, which assigns ratings to approximately 500,000 municipal bonds otherwise unrated by S&P/Moody's
+* Implement an internal credit ratings system using a gradient-boosted random forest machine learning model, which assigns ratings to approximately 500,000 municipal bonds otherwise unrated by S&P/Moody's
 
 **University of Chicago-Harris School of Public Policy** <br>
 Technical Assistant <br>
