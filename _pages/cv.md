@@ -57,4 +57,4 @@ June 2018-August 2018
 Teaching Assistant <br>
 September 2021-November 2021
 * Serve as teaching assistant for the course designed to prepare incoming Harris students for the coding required in the core curriculum.
-* Lead lab sessions of 12 students, providing assistance to students completing coding tasks in R.
+* Facilitate lab sessions of 12 students, providing assistance to students completing coding tasks in R.
