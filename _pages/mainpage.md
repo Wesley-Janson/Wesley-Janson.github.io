@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wesley Janson and I am currently a second-year student in the M.S. in Computational Analysis and Public Policy program at the University of Chicago. My interests lie within the intersection of economic policy and data science. I aim to have a career using machine learning and computational statistics to help implement sound economic policy.
+My name is Wesley Janson and I am currently a second-year student in the M.S. in Computational Analysis and Public Policy program at the University of Chicago, graduating in June 2023. My interests lie within the intersection of economic policy and data science. I aim to have a career using machine learning and computational statistics to help implement sound economic policy.
 
 Currently, at the University of Chicago I have taken coursework in machine learning, databases, programming in Python, and statistics. I work as a Research Assistant for Securities Quote Xchange, a financial services firm specializing in alternative trading systems for fixed income securities, implementing machine learning and econometric modeling to enhance products for clients. I also work at the Center for Municipal Finance at the Harris School of Public Policy, where I maintain the Center's <a href="https://munifinance.uchicago.edu/data_dashboard/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Data Dashboard</span></a>, which provides users with a range of data visualizations concerning municipal bond trading, pricing, and liquidity measures.
 
