@@ -19,7 +19,7 @@ Programming: R (*tidyverse, nnet, ggplot2*), Python (*numpy, pandas, scikit-lear
 Software: LaTeX, Git/Github, Microsoft Office Applications, Adobe Acrobat, Bloomberg Terminal
 
 ## Professional Experience
-**Securities Quote Exchange** <br>
+**Securities Quote Xchange** <br>
 Research Assistant <br>
 May 2022-Present <br>
 * Provide research support for SQX - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
