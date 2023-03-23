@@ -20,7 +20,7 @@ Software: LaTeX, Git/Github, Microsoft Office Applications, Adobe Acrobat, Bloom
 
 ## Professional Experience
 **Securities Quote Xchange** <br>
-Research Assistant <br>
+Data Science Assistant <br>
 May 2022-Present <br>
 * Provide research support for <a href="https://www.sqx.com/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">SQX</span></a> - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
 * Develop a data-driven approach to grouping peer bonds in SQX's municipal bond pricing model - used by traders, analysts, and regulators - creating time-consistent groupings, and shortening run-time by 90%
