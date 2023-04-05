@@ -16,7 +16,7 @@ You can download a PDF of an abbreviated version of my resume <a href="https://g
 
 ## Technical Skills
 Programming: R (*tidyverse, nnet, ggplot2*), Python (*numpy, pandas, scikit-learn*), STATA, SQL <br>
-Software: LaTeX, Git/Github, Microsoft Office Applications, Adobe Acrobat, Bloomberg Terminal
+Software: LaTeX, Git/Github, Microsoft Office Applications, Amazon Web Services, Adobe Acrobat, Bloomberg Terminal
 
 ## Professional Experience
 **Securities Quote Xchange** <br>
