@@ -19,7 +19,7 @@ Programming: R (*tidyverse, nnet, ggplot2*), Python (*numpy, pandas, scikit-lear
 Software: LaTeX, Git/Github, Microsoft Office Applications, Amazon Web Services, Adobe Acrobat, Bloomberg Terminal
 
 ## Professional Experience
-**Internal Revenue Service, Department of Research, Analytics, and Applied Statistics** <br>
+**Internal Revenue Service, Department of Research, Analytics and Applied Statistics** <br>
 Data Scientist/Mathematical Statistician <br>
 July 2023-Present <br>
 
