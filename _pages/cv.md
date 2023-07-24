@@ -21,17 +21,17 @@ Software: LaTeX, Git/Github, Microsoft Office Applications, Amazon Web Services,
 ## Professional Experience
 **Securities Quote Xchange** <br>
 Data Science Assistant <br>
-May 2022-Present <br>
-* Provide research support for <a href="https://www.sqx.com/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">SQX</span></a> - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
-* Develop a data-driven approach to grouping peer bonds in SQX's municipal bond pricing model - used by traders, analysts, and regulators - creating time-consistent groupings, and shortening run-time by 90%
-* Implement an internal credit ratings system using a gradient-boosted tree machine learning algorithm, which assigns ratings to approximately 500,000 municipal bonds otherwise unrated by S&P/Moody's
+May 2022-July 2023 <br>
+* Provided research support for <a href="https://www.sqx.com/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">SQX</span></a> - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
+* Developed a data-driven approach to grouping peer bonds in SQX's municipal bond pricing model - used by traders, analysts, and regulators - creating time-consistent groupings, and shortening run-time by 90%
+* Implemented an internal credit ratings system using a gradient-boosted tree machine learning algorithm, which assigned ratings to approximately 500,000 municipal bonds otherwise unrated by S&P/Moody's
 
 **University of Chicago-Harris School of Public Policy** <br>
 Technical Assistant <br>
-May 2022-Present
-* Overhaul the Harris School's <a href="https://munifinance.uchicago.edu/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Center for Municipal Finance website</span></a>, populating it with information on events, media coverage, relevant research and data
-* Install a brand-new "CMF Data Dashboard" which provides users with a range of data visualizations concerning municipal bond trading, pricing, and liquidity measures
-* Using a repeat-sales methodology, create a municipal bond index gauging individual city/county/school district financial health and market sentiment, featured in <a href="https://www.bnnbloomberg.ca/chicago-s-improved-finances-reflected-in-bond-investor-sentiment-1.1829622#:~:text=(Bloomberg)\%20\%2D\%2D\%20Investors\%20are\%20more,those\%20of\%20other\%20big\%20cities." data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Bloomberg News</span></a> and <a href="https://www.chicagobusiness.com/politics/chicagos-improved-finances-reflected-bond-investor-sentiment" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Crain's Chicago Business</span></a>
+May 2022-July 2023
+* Overhauled the Harris School's <a href="https://munifinance.uchicago.edu/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Center for Municipal Finance website</span></a>, populating it with information on events, media coverage, relevant research and data
+* Installed a brand-new "CMF Data Dashboard" which provides users with a range of data visualizations concerning municipal bond trading, pricing, and liquidity measures
+* Using a repeat-sales methodology, created a municipal bond index gauging individual city/county/school district financial health and market sentiment, featured in <a href="https://www.bnnbloomberg.ca/chicago-s-improved-finances-reflected-in-bond-investor-sentiment-1.1829622#:~:text=(Bloomberg)\%20\%2D\%2D\%20Investors\%20are\%20more,those\%20of\%20other\%20big\%20cities." data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Bloomberg News</span></a> and <a href="https://www.chicagobusiness.com/politics/chicagos-improved-finances-reflected-bond-investor-sentiment" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Crain's Chicago Business</span></a>
 
 **University of Chicago-Harris School of Public Policy** <br>
 Research Assistant, Professor Ingvil Gaarder <br>
