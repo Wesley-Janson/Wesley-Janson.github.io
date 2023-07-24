@@ -19,6 +19,10 @@ Programming: R (*tidyverse, nnet, ggplot2*), Python (*numpy, pandas, scikit-lear
 Software: LaTeX, Git/Github, Microsoft Office Applications, Amazon Web Services, Adobe Acrobat, Bloomberg Terminal
 
 ## Professional Experience
+**IRS, Research, Analytics, and Applied Statistics** <br>
+Data Scientist/Mathematical Statistician <br>
+July 2023-Present <br>
+
 **Securities Quote Xchange** <br>
 Data Science Assistant <br>
 May 2022-July 2023 <br>
