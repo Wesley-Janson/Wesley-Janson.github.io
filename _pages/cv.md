@@ -22,6 +22,7 @@ Software: LaTeX, Git/Github, Microsoft Office Applications, Amazon Web Services,
 **Internal Revenue Service, Division of Research, Applied Analytics and Statistics** <br>
 Data Scientist/Mathematical Statistician <br>
 July 2023-Present <br>
+* Member of the Automated Analytics Lab
 
 **Securities Quote Xchange** <br>
 Data Science Assistant <br>
