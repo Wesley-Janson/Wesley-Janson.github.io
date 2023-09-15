@@ -15,8 +15,8 @@ You can download a PDF of an abbreviated version of my resume <a href="https://g
 * B.A. in Economics, University of Minnesota-Twin Cities, 2018
 
 ## Technical Skills
-Programming: R (*tidyverse, nnet, ggplot2*), Python (*numpy, pandas, scikit-learn*), STATA, SQL <br>
-Software: LaTeX, Git/Github, Microsoft Office Applications, Amazon Web Services, Adobe Acrobat, Bloomberg Terminal
+Programming: R (*tidyverse, nnet, RShiny*), Python (*numpy, pandas, scikit-learn*), STATA, SQL <br>
+Software: LaTeX, Git/Github, Amazon Web Services, Microsoft Office Applications, Adobe Acrobat, Bloomberg Terminal
 
 ## Professional Experience
 **Internal Revenue Service, Division of Research, Applied Analytics and Statistics** <br>
