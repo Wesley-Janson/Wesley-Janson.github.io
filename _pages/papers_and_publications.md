@@ -36,7 +36,7 @@ author_profile: true
 <a href="https://www.clevelandfed.org/publications/working-paper/2021/wp-2022r-late-payment-fees-nonpayment-in-rental-markets" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><strong><span style="text-decoration: underline;">Late Payment Fees and Nonpayment in Rental Markets, and Implications for Inflation Measurement: Theoretical Considerations and Evidence</span></strong></a> (Under Review, with <a href="https://www.clevelandfed.org/research/economists/verbrugge-randal-j" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Randal J. Verbrugge</span></a>) <br>
 **Abstract:** Accurate rent measurement is essential for contructing a consumer price index (CPI) and for measuring household welfare. Late payment fees and nonpayment in rent are common components of rental expenditures and thus belong in CPIs. Late payment fees are often excluded; we offer a novel critique. In the US CPI, nonpayment is ostensibly included, but, we show, severely undermeasured. Moreover, the manner of its inclusion renders the CPI extremely sensitive to nonpayment variations; we show how to fix this. Nonpayment under-measurement suggests at least a +1 ppt overestimate in 2020 CPI shelter inflation. Timely nonpayment and late fee measurement is challenging; we offer a practical solution.
 
-<span style="color:gray;font-weight:400;font-size:18px">
+<span style="color:dark gray;font-weight:400;font-size:18px">
     Accurate rent measurement
 </span>
 
