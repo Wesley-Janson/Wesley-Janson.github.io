@@ -22,7 +22,7 @@ Software: LaTeX, Git/Github, Amazon Web Services, Microsoft Office Applications,
 **Internal Revenue Service, Division of Research, Applied Analytics and Statistics** <br>
 Data Scientist/Mathematical Statistician <br>
 July 2023-Present <br>
-* As a member of the Automated Analytics Lab, develop the Enterprise Planning Scenario Tool for internal use by stakeholders in planning of resource allocation for the fiscal year.
+* As a member of the Automated Analytics Lab, develop the Enterprise Planning Scenario Tools for internal use by stakeholders in planning of resource allocation for the fiscal year.
 * Collaborate with various IRS divisions to identify and resolve ongoing data issues and initiatives, employing effective data modeling and engineering techniques to achieve solutions.
 
 **Securities Quote Xchange** <br>
