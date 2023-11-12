@@ -64,9 +64,7 @@ December 2017-May 2018
 * Provided research assistant support on project using economic theory, econometrics, and data to inform upon the construction of optimal pension plans with a specific focus on public plans
 * Orchestrated the constructing and testing of economic and financial models used to inform upon optimal public pension policy and employee savings decisions
 * Assisted in constructing and testing of economic and financial models used to inform upon optimal policy and employee savings decisions
-* Coauthored ``Risk-taking by Public Pension Funds'', a policy brief aimed for public reading
-
-* <a href="https://cla.umn.edu/heller-hurwicz/news/policy-brief-risk-taking-public-pension-funds" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Risk-taking by Public Pension Funds</span></a>
+* Coauthored <a href="https://cla.umn.edu/heller-hurwicz/news/policy-brief-risk-taking-public-pension-funds" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Risk-taking by Public Pension Funds</span></a>, a policy brief aimed for public viewing
 
 ## Teaching Experience
 **Harris School of Public Policy Math & Coding Camp/Coding Lab** <br>
