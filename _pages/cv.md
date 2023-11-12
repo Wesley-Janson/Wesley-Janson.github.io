@@ -63,7 +63,6 @@ Research Assistant <br>
 December 2017-May 2018
 * Provided research assistant support on project using economic theory, econometrics, and data to inform upon the construction of optimal pension plans with a specific focus on public plans
 * Orchestrated the constructing and testing of economic and financial models used to inform upon optimal public pension policy and employee savings decisions
-* Analyzed risk contribution and implied returns of financial assets, comparing variation throughout time to observe impacts on pension portfolio
 * Assisted in constructing and testing of economic and financial models used to inform upon optimal policy and employee savings decisions
 * Coauthored ``Risk-taking by Public Pension Funds'', a policy brief aimed for public reading
   
