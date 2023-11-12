@@ -65,7 +65,9 @@ December 2017-May 2018
 * Orchestrated the constructing and testing of economic and financial models used to inform upon optimal public pension policy and employee savings decisions
 * Assisted in constructing and testing of economic and financial models used to inform upon optimal policy and employee savings decisions
 * Coauthored ``Risk-taking by Public Pension Funds'', a policy brief aimed for public reading
-  
+
+* <a href="https://cla.umn.edu/heller-hurwicz/news/policy-brief-risk-taking-public-pension-funds" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Risk-taking by Public Pension Funds</span></a>
+
 ## Teaching Experience
 **Harris School of Public Policy Math & Coding Camp/Coding Lab** <br>
 Teaching Assistant <br>
