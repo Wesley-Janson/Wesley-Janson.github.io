@@ -57,6 +57,15 @@ September 2018-August 2021
 Model Development Intern <br>
 June 2018-August 2018
 * Developed a new forecasting model for use by FRBP officials on cash deposits and orders from third district member banks by utilizing time series econometric techniques in the SAS programming language
+
+**University of Minnesota-Twin Cities, Heller-Hurwicz Economics Institute** <br>
+Research Assistant <br>
+December 2017-May 2018
+* Provided research assistant support on project using economic theory, econometrics, and data to inform upon the construction of optimal pension plans with a specific focus on public plans
+* Orchestrated the constructing and testing of economic and financial models used to inform upon optimal public pension policy and employee savings decisions
+* Analyzed risk contribution and implied returns of financial assets, comparing variation throughout time to observe impacts on pension portfolio
+* Assisted in constructing and testing of economic and financial models used to inform upon optimal policy and employee savings decisions
+* Coauthored ``Risk-taking by Public Pension Funds'', a policy brief aimed for public reading
   
 ## Teaching Experience
 **Harris School of Public Policy Math & Coding Camp/Coding Lab** <br>
