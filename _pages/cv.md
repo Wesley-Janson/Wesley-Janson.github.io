@@ -69,6 +69,6 @@ December 2017-May 2018
 ## Teaching Experience
 **Harris School of Public Policy Math & Coding Camp/Coding Lab** <br>
 Teaching Assistant <br>
-September 2021-November 2021
+September 2022-November 2022
 * Serve as teaching assistant for the course designed to prepare incoming Harris students for the coding required in the core curriculum.
 * Facilitate lab sessions of 12 students, providing assistance to students completing coding tasks in R.
