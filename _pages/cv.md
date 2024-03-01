@@ -24,7 +24,7 @@ Data Scientist/Mathematical Statistician <br>
 July 2023-Present <br>
 * As a member of the Automated Analytics Lab, develop the Enterprise Planning Scenario Tools for internal use by stakeholders in planning of resource allocation for the fiscal year.
 * Collaborate with various IRS divisions to identify and resolve ongoing data issues and initiatives, employing effective data modeling and engineering techniques to achieve solutions.
-* Team up with qualified researchers in the Joint Statistical Research Program (JSRP) to encorporate tax microdata into academic research providing new insights and advancing the understanding of the ways that existing tax policies affect individuals, businesses, and the economy.
+* Team up with qualified researchers in the Joint Statistical Research Program (JSRP) to incorporate tax microdata into academic research providing new insights and advancing the understanding of the ways that existing tax policies affect individuals, businesses, and the economy.
 
 **Securities Quote Xchange** <br>
 Data Science Assistant <br>
