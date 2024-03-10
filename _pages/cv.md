@@ -22,9 +22,9 @@ Software: LaTeX, Git/Github, Amazon Web Services, Microsoft Office Applications,
 **Internal Revenue Service, Division of Research, Applied Analytics and Statistics** <br>
 Data Scientist/Mathematical Statistician <br>
 July 2023-Present <br>
-* As a member of the Automated Analytics Lab, develop the Enterprise Planning Scenario Tools for internal use by stakeholders in planning of resource allocation for the fiscal year.
-* Collaborate with various IRS divisions to identify and resolve ongoing data issues and initiatives, employing effective data modeling and engineering techniques to achieve solutions.
-* Team up with qualified researchers in the Joint Statistical Research Program (JSRP) to incorporate tax microdata into academic research providing new insights and advancing the understanding of the ways that existing tax policies affect individuals, businesses, and the economy.
+* As a member of the Automated Analytics Lab, develop the Enterprise Planning Scenario Tools for internal use by stakeholders in planning of resource allocation for the fiscal year
+* Collaborate with various IRS divisions to identify and resolve ongoing data issues and initiatives, employing effective data modeling and engineering techniques to achieve solutions
+* Team up with qualified researchers in the Joint Statistical Research Program (JSRP) to incorporate tax microdata into academic research providing new insights and advancing the understanding of the ways that existing tax policies affect individuals, businesses, and the economy
 
 **Securities Quote Xchange** <br>
 Data Science Assistant <br>
@@ -71,5 +71,5 @@ December 2017-May 2018
 **Harris School of Public Policy Math & Coding Camp/Coding Lab** <br>
 Teaching Assistant <br>
 September 2022-November 2022
-* Serve as teaching assistant for the course designed to prepare incoming Harris students for the coding required in the core curriculum.
+* Serve as teaching assistant for the course designed to prepare incoming Harris students for the coding required in the core curriculum
 * Facilitate lab sessions of 12 students, providing assistance to students completing coding tasks in R.
