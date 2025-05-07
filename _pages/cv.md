@@ -15,16 +15,31 @@ You can download a PDF of an abbreviated version of my resume <a href="https://g
 * B.A. in Economics, University of Minnesota-Twin Cities, 2018
 
 ## Technical Skills
-Programming: R (*tidyverse, nnet, RShiny*), Python (*numpy, pandas, scikit-learn*), STATA, SQL <br>
+Programming: R (*tidyverse, nnet, RShiny*), Python (*pandas, scikit-learn, PySpark*), STATA, SQL <br>
 Software: LaTeX, Git/Github, Amazon Web Services, Microsoft Office Applications, Adobe Acrobat, Bloomberg Terminal
 
 ## Professional Experience
 **Internal Revenue Service, Division of Research, Applied Analytics and Statistics** <br>
 Data Scientist/Mathematical Statistician <br>
 July 2023-Present <br>
-* Collaborate with various IRS divisions to identify and resolve ongoing data issues and initiatives, employing effective statistical data modeling and engineering techniques to achieve solutions for customers
-* As a member of the Automated Analytics Lab in the office of Research, Applied Analytics, and Statistics, develop and maintain the Enterprise Planning Scenario Tools, a suite of RShiny dashboards used by internal stakeholders in planning of resource allocation for the fiscal year
+* Collaborate with IRS divisions and researchers to identify and resolve data challenges, leveraging statistical modeling and data engineering techniques to develop solutions that support tax policy analysis and operational decision-making
+* Develop and maintain the Enterprise Planning Scenario Tools, a suite of RShiny dashboards within the Automated Analytics Lab of the Oﬃce of Research, Applied Analytics, and Statistics, enabling internal stakeholders to optimize workforce allocation for approximately 8,000 employees, representing a budget of around $400 million
+* Design and conduct a randomized controlled trial involving 120,000 taxpayers to improve outreach eﬀectiveness
+and enhance revenue estimation for eﬃcient tax administration
 * Team up with qualified researchers in the Joint Statistical Research Program (JSRP) to incorporate tax microdata into academic research providing new insights and advancing the understanding of the ways that existing tax policies affect individuals, businesses, and the economy
+
+**University of Chicago-Harris School of Public Policy** <br>
+Affiliated Researcher <br>
+July 2023-Present
+* Conduct original research in municipal finance applying modern portfolio theory to explore risk asymmetry
+and service-driven revenue structures
+* Develop a corresponding R package to be featured in the CRAN repository that generate optimal portfolios and generates eﬃcient frontiers, with wide-ranging applications from municipal finance, equities, and renewable energy markets
+
+Technical Assistant <br>
+May 2022-July 2023
+* Overhauled the Harris School's <a href="https://munifinance.uchicago.edu/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Center for Municipal Finance website</span></a>, populating it with information on events, media coverage, relevant research and data
+* Installed a brand-new "CMF Data Dashboard" which provides users with a range of data visualizations concerning municipal bond trading, pricing, and liquidity measures
+* Using a repeat-sales methodology, created a municipal bond index gauging individual city/county/school district financial health and market sentiment, featured in <a href="https://www.bnnbloomberg.ca/chicago-s-improved-finances-reflected-in-bond-investor-sentiment-1.1829622#:~:text=(Bloomberg)\%20\%2D\%2D\%20Investors\%20are\%20more,those\%20of\%20other\%20big\%20cities." data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Bloomberg News</span></a> and <a href="https://www.chicagobusiness.com/politics/chicagos-improved-finances-reflected-bond-investor-sentiment" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Crain's Chicago Business</span></a>
 
 **Securities Quote Xchange** <br>
 Data Science Assistant <br>
@@ -32,13 +47,6 @@ May 2022-July 2023 <br>
 * Provided research support for <a href="https://www.sqx.com/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">SQX</span></a> - a financial services firm specializing in alternative trading systems for fixed income securities - using econometric and machine learning modeling to enhance products for clients
 * Developed a data-driven approach to grouping peer bonds in SQX's municipal bond pricing model - used by traders, analysts, and regulators - creating time-consistent groupings, and shortening run-time by 90%
 * Implemented an internal credit ratings system using a gradient-boosted tree machine learning algorithm, which assigned ratings to approximately 500,000 otherwise unrated municipal bonds
-
-**University of Chicago-Harris School of Public Policy** <br>
-Technical Assistant <br>
-May 2022-July 2023
-* Overhauled the Harris School's <a href="https://munifinance.uchicago.edu/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Center for Municipal Finance website</span></a>, populating it with information on events, media coverage, relevant research and data
-* Installed a brand-new "CMF Data Dashboard" which provides users with a range of data visualizations concerning municipal bond trading, pricing, and liquidity measures
-* Using a repeat-sales methodology, created a municipal bond index gauging individual city/county/school district financial health and market sentiment, featured in <a href="https://www.bnnbloomberg.ca/chicago-s-improved-finances-reflected-in-bond-investor-sentiment-1.1829622#:~:text=(Bloomberg)\%20\%2D\%2D\%20Investors\%20are\%20more,those\%20of\%20other\%20big\%20cities." data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Bloomberg News</span></a> and <a href="https://www.chicagobusiness.com/politics/chicagos-improved-finances-reflected-bond-investor-sentiment" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Crain's Chicago Business</span></a>
 
 **University of Chicago-Harris School of Public Policy** <br>
 Research Assistant, Professor Ingvil Gaarder <br>
