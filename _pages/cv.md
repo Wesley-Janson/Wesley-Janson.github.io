@@ -33,7 +33,7 @@ Affiliated Researcher <br>
 July 2023-Present
 * Conduct original research in municipal finance applying modern portfolio theory to explore risk asymmetry
 and service-driven revenue structures
-* Develop a corresponding R package to be featured in the CRAN repository that generate optimal portfolios and generates eﬃcient frontiers, with wide-ranging applications from municipal finance, equities, and renewable energy markets
+* Develop a corresponding R package to be featured in the CRAN repository that generates optimal portfolios and eﬃcient frontiers, with wide-ranging applications from municipal finance to equities and renewable energy markets
 
 Technical Assistant <br>
 May 2022-July 2023
