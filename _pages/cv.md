@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download a PDF of an abbreviated version of my resume <a href="https://github.com/Wesley-Janson/Wesley-Janson.github.io/raw/master/_pages/wesley_janson_resume.pdf" download="">here</a>
+You can download a PDF of my CV <a href="https://github.com/Wesley-Janson/Wesley-Janson.github.io/raw/master/_pages/wesley_janson_cv.pdf" download="">here</a>, or an abbreviated version of my resume <a href="https://github.com/Wesley-Janson/Wesley-Janson.github.io/raw/master/_pages/wesley_janson_resume.pdf" download="">here</a>
 
 ## Education
 * M.S. in Computational Analysis and Public Policy, University of Chicago, 2023
