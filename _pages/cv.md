@@ -60,7 +60,7 @@ September 2018-August 2021
 * Advanced the research projects of bank economists' for public viewing and submission to academic journals by gathering relevant data, performing econometric analysis, and writing up findings
 * Enhanced preparation to the monetary policy-making process by supporting bank economists with briefings on financial and macroeconomic conditions ahead of the bi-quarterly Federal Open Market Committee meetings by creating data visualizations and other research material
 * Automated the *Simple Monetary Policy Rules* bank product, eliminating manual data entry and potential user error, ensuring the quarterly updates to the underlying information provided to the public is accurate
-* Coauthored 3 short, <a href="https://www.clevelandfed.org/people/profiles/j/janson-wesley" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">policy-relevant articles</span></a> aimed for public viewing, and 2 academic working papers, one currently under review at an academic journal, one featured in the *Journal of Money, Credit & Banking*
+* Coauthored 3 short, <a href="https://www.clevelandfed.org/people/profiles/j/janson-wesley" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">policy-relevant articles</span></a> aimed for public viewing, and 2 academic working papers, one featured in the *Journal of Money, Credit & Banking*
 
 **Federal Reserve Bank of Philadelphia** <br>
 Model Development Intern <br>
