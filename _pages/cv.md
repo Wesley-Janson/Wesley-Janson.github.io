@@ -26,7 +26,7 @@ July 2023-Present <br>
 * Develop and maintain the Enterprise Planning Scenario Tools, a suite of RShiny dashboards within the Automated Analytics Lab of the Oﬃce of Research, Applied Analytics, and Statistics, enabling internal stakeholders to optimize workforce allocation for approximately 8,000 employees, representing a budget of around $400 million
 * Design and conduct a randomized controlled trial involving 120,000 taxpayers to improve outreach eﬀectiveness
 and enhance revenue estimation for eﬃcient tax administration
-* Team up with qualified researchers in the Joint Statistical Research Program (JSRP) to incorporate tax microdata into academic research providing new insights and advancing the understanding of the ways that existing tax policies affect individuals, businesses, and the economy
+* Team up with qualified researchers in the <a href="https://www.irs.gov/statistics/soi-tax-stats-joint-statistical-research-program" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Joint Statistical Research Program (JSRP)</span></a> to incorporate tax microdata into academic research providing new insights and advancing the understanding of the ways that existing tax policies affect individuals, businesses, and the economy
 
 **University of Chicago-Harris School of Public Policy** <br>
 Affiliated Researcher <br>
