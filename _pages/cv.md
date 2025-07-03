@@ -19,7 +19,7 @@ Programming: R (*tidyverse, nnet, RShiny*), Python (*pandas, scikit-learn, PySpa
 Software: LaTeX, Git/Github, Amazon Web Services, Microsoft Office Applications, Adobe Acrobat, Bloomberg Terminal
 
 ## Professional Experience
-**Internal Revenue Service, Division of Research, Applied Analytics and Statistics** <br>
+**Internal Revenue Service, Division of Research, Applied Analytics, and Statistics** <br>
 Data Scientist/Mathematical Statistician <br>
 July 2023-Present <br>
 * Collaborate with IRS divisions and researchers to identify and resolve data challenges, leveraging statistical modeling and data engineering techniques to develop solutions that support tax policy analysis and operational decision-making
