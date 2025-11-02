@@ -15,13 +15,17 @@ You can download a PDF of my CV <a href="https://github.com/Wesley-Janson/Wesley
 * B.A. in Economics, University of Minnesota-Twin Cities, 2018
 
 ## Technical Skills
-Programming: R (*tidyverse, nnet, RShiny*), Python (*pandas, scikit-learn, PySpark*), STATA, SQL <br>
+Programming: R (*tidyverse, nnet, RShiny*), Python (*pandas, scikit-learn, PySpark*), STATA, SQL, SAS <br>
 Software: LaTeX, Git/Github, Amazon Web Services, Microsoft Office Applications, Adobe Acrobat, Bloomberg Terminal
 
 ## Professional Experience
+**Northern Trust Corporation, Risk Analytics and Data Services** <br>
+Senior Consultant, Vice President of Risk Analytics <br>
+July 2025-Present <br>
+
 **Internal Revenue Service, Division of Research, Applied Analytics, and Statistics** <br>
 Data Scientist/Mathematical Statistician <br>
-July 2023-Present <br>
+July 2023-July 2025 <br>
 * Collaborate with IRS divisions and researchers to identify and resolve data challenges, leveraging statistical modeling and data engineering techniques to develop solutions that support tax policy analysis and operational decision-making
 * Develop and maintain the Enterprise Planning Scenario Tools, a suite of RShiny dashboards within the Automated Analytics Lab of the Oﬃce of Research, Applied Analytics, and Statistics, enabling internal stakeholders to optimize workforce allocation for approximately 8,000 employees, representing a budget of around $400 million
 * Design and conduct a randomized controlled trial involving 120,000 taxpayers to improve outreach eﬀectiveness
