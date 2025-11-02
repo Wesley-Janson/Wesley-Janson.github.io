@@ -23,7 +23,7 @@ Software: LaTeX, Git/Github, Amazon Web Services, Microsoft Office Applications,
 Senior Consultant, Vice President of Risk Analytics <br>
 July 2025-Present <br>
 
-**University of Chicago-Harris School of Public Policy** <br>
+**University of Chicago-Harris School of Public Policy, Center for Municipal Finance** <br>
 Affiliated Researcher <br>
 July 2023-Present
 * Conduct original research in municipal finance applying modern portfolio theory to explore risk asymmetry
