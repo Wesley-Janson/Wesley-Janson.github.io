@@ -23,21 +23,21 @@ Software: LaTeX, Git/Github, Amazon Web Services, Microsoft Office Applications,
 Senior Consultant, Vice President of Risk Analytics <br>
 July 2025-Present <br>
 
-**Internal Revenue Service, Division of Research, Applied Analytics, and Statistics** <br>
-Data Scientist/Mathematical Statistician <br>
-July 2023-July 2025 <br>
-* Collaborate with IRS divisions and researchers to identify and resolve data challenges, leveraging statistical modeling and data engineering techniques to develop solutions that support tax policy analysis and operational decision-making
-* Develop and maintain the Enterprise Planning Scenario Tools, a suite of RShiny dashboards within the Automated Analytics Lab of the Oﬃce of Research, Applied Analytics, and Statistics, enabling internal stakeholders to optimize workforce allocation for approximately 8,000 employees, representing a budget of around $400 million
-* Design and conduct a randomized controlled trial involving 120,000 taxpayers to improve outreach eﬀectiveness
-and enhance revenue estimation for eﬃcient tax administration
-* Team up with qualified researchers in the <a href="https://www.irs.gov/statistics/soi-tax-stats-joint-statistical-research-program" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Joint Statistical Research Program (JSRP)</span></a> to incorporate tax microdata into academic research providing new insights and advancing the understanding of the ways that existing tax policies affect individuals, businesses, and the economy
-
 **University of Chicago-Harris School of Public Policy** <br>
 Affiliated Researcher <br>
 July 2023-Present
 * Conduct original research in municipal finance applying modern portfolio theory to explore risk asymmetry
 and service-driven revenue structures
 * Develop a corresponding R package to be featured in the CRAN repository that generates optimal portfolios and eﬃcient frontiers, with wide-ranging applications from municipal finance to equities and renewable energy markets
+
+**Internal Revenue Service, Division of Research, Applied Analytics, and Statistics** <br>
+Data Scientist/Mathematical Statistician <br>
+July 2023-July 2025 <br>
+* Collaborated with IRS divisions and researchers to identify and resolve data challenges, leveraging statistical modeling and data engineering techniques to develop solutions that support tax policy analysis and operational decision-making
+* Developed and maintained the Enterprise Planning Scenario Tools, a suite of RShiny dashboards within the Automated Analytics Lab of the Oﬃce of Research, Applied Analytics, and Statistics, enabling internal stakeholders to optimize workforce allocation for approximately 8,000 employees, representing a budget of around $400 million
+* Designed and conducted a randomized controlled trial involving 120,000 taxpayers to improve outreach eﬀectiveness
+and enhance revenue estimation for eﬃcient tax administration
+* Teamed up with qualified researchers in the <a href="https://www.irs.gov/statistics/soi-tax-stats-joint-statistical-research-program" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Joint Statistical Research Program (JSRP)</span></a> to incorporate tax microdata into academic research providing new insights and advancing the understanding of the ways that existing tax policies affect individuals, businesses, and the economy
 
 Technical Assistant <br>
 May 2022-July 2023
