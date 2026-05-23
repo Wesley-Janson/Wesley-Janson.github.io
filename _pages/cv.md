@@ -30,6 +30,12 @@ July 2023-Present
 and service-driven revenue structures
 * Develop a corresponding R package to be featured in the CRAN repository that generates optimal portfolios and eﬃcient frontiers, with wide-ranging applications from municipal finance to equities and renewable energy markets
 
+Technical Assistant <br>
+May 2022-July 2023
+* Overhauled the Harris School's <a href="https://munifinance.uchicago.edu/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Center for Municipal Finance website</span></a>, populating it with information on events, media coverage, relevant research and data
+* Installed a brand-new "CMF Data Dashboard" which provides users with a range of data visualizations concerning municipal bond trading, pricing, and liquidity measures
+* Using a repeat-sales regression methodology, created a municipal bond index gauging individual city/county/school district financial health and market sentiment, featured in <a href="https://www.bnnbloomberg.ca/chicago-s-improved-finances-reflected-in-bond-investor-sentiment-1.1829622#:~:text=(Bloomberg)\%20\%2D\%2D\%20Investors\%20are\%20more,those\%20of\%20other\%20big\%20cities." data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Bloomberg News</span></a> and <a href="https://www.chicagobusiness.com/politics/chicagos-improved-finances-reflected-bond-investor-sentiment" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Crain's Chicago Business</span></a>
+
 **Internal Revenue Service, Division of Research, Applied Analytics, and Statistics** <br>
 Data Scientist/Mathematical Statistician <br>
 July 2023-July 2025 <br>
@@ -38,12 +44,6 @@ July 2023-July 2025 <br>
 * Designed and conducted a randomized controlled trial involving 120,000 taxpayers to improve outreach eﬀectiveness
 and enhance revenue estimation for eﬃcient tax administration
 * Teamed up with qualified researchers in the <a href="https://www.irs.gov/statistics/soi-tax-stats-joint-statistical-research-program" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Joint Statistical Research Program (JSRP)</span></a> to incorporate tax microdata into academic research providing new insights and advancing the understanding of the ways that existing tax policies affect individuals, businesses, and the economy
-
-Technical Assistant <br>
-May 2022-July 2023
-* Overhauled the Harris School's <a href="https://munifinance.uchicago.edu/" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Center for Municipal Finance website</span></a>, populating it with information on events, media coverage, relevant research and data
-* Installed a brand-new "CMF Data Dashboard" which provides users with a range of data visualizations concerning municipal bond trading, pricing, and liquidity measures
-* Using a repeat-sales regression methodology, created a municipal bond index gauging individual city/county/school district financial health and market sentiment, featured in <a href="https://www.bnnbloomberg.ca/chicago-s-improved-finances-reflected-in-bond-investor-sentiment-1.1829622#:~:text=(Bloomberg)\%20\%2D\%2D\%20Investors\%20are\%20more,those\%20of\%20other\%20big\%20cities." data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Bloomberg News</span></a> and <a href="https://www.chicagobusiness.com/politics/chicagos-improved-finances-reflected-bond-investor-sentiment" data-sf-ec-immutable="" data-sf-marked="" target="_blank" rel="noopener"><span style="text-decoration: underline;">Crain's Chicago Business</span></a>
 
 **Securities Quote Xchange** <br>
 Data Science Assistant <br>
